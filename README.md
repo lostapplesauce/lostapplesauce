@@ -1,6 +1,6 @@
 -  Hi, I’m Troy Turner 
--  I’m interested in improving my skills within coding, while also enjoying travels and seeing the outdoors
--  I’m currently learning more on being Full-stack Web Developer
+-  Fumbling through the dark of Full-Stack Web Development 
+-  Building things and making it happen
 -  How to reach me troyturner444@gmail.com
 
 <!---
