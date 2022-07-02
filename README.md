@@ -1,6 +1,6 @@
--  Hi, I’m Troy Turner 
+-  Hi, I am Troy Turner 
 -  Fumbling and stumbling down a dark hallway that is Full-Stack Web Development 
--  Building things and making it happen
+-  Building things and making sure to not break them
 -  How to reach me troyturner444@gmail.com
 
 <!---
