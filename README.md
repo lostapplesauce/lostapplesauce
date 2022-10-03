@@ -1,5 +1,5 @@
 -  Hi, I am Troy Turner 
--  Fumbling and stumbling down a dark hallway that is Full-Stack Web Development 
+-  React Developing 
 -  Building things and making sure to not break them
 -  How to reach me troyturner444@gmail.com
 
